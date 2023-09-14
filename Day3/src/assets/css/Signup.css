@@ -1,0 +1,52 @@
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    
+  }
+
+  .login-form {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border: 1px solid #939090; 
+    border-radius: 7px;
+  }
+
+  .header {
+    background-color: #3c79c3;
+    color: #020000;
+    padding: 5px 0;
+    text-align: center;
+    margin: 0;
+    width: 100%; /* Added this line */
+    font-family:serif;
+  }
+
+  #filled-basic{
+    padding-right: 60px;
+    padding-left: 60px;
+  }
+
+  .pad2{
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+
+  .but2{
+    padding-left: 105px;
+  }
+
+  .padd1{
+    padding-top: 10px ;
+    font-size: 20px;
+  }
+
+  .log {
+    text-decoration: none !important; 
+    color: #3c79c3; 
+    cursor: pointer;
+  }
+  
+
+
