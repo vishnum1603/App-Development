@@ -1,0 +1,53 @@
+.login-container1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 8%;
+  }
+
+  .header1 {
+    background-color: rgb(49, 49, 48) ; 
+    color: white;
+    padding: 5px 0;
+    text-align: center;
+    margin: 0;
+    width: 100%; /* Add ed this line */
+    font-family:serif;
+  }
+
+
+  .login-form1 {
+    background-color: #f0f0f0;
+    padding: 15px;
+    border: 1px solid #ccc; 
+    border-radius: 5px;
+  }
+
+ .pad1{
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+
+  .pass1{
+    padding-right: 5px;
+  }
+
+  .forgot1{
+    padding-left: 100px;
+  }
+  
+  .padd{
+    padding-top: 10px ;
+    font-size: 20px;
+  }
+
+
+.sign {
+  text-decoration: none !important; 
+  color: rgb(222, 95, 41);
+  cursor: pointer;
+}
+
+
+
+  
