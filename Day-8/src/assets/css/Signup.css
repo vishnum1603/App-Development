@@ -1,0 +1,51 @@
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 4%;
+  }
+
+  .login-form {
+    background-color: #f0f0f0;
+    padding: 15px;
+    border: 1px solid #939090; 
+    border-radius: 7px;
+  }
+
+  .header {
+    background-color: rgb(49, 49, 48);
+    color: white;
+    padding: 5px 0;
+    text-align: center;
+    margin: 0;
+    width: 100%; /* Added this line */
+    font-family:serif;
+  }
+
+  #filled-basic{
+    margin-right: 60px;
+    margin-left: 60px;
+  }
+
+  .pad2{
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+
+  .but2{
+    margin-left: 105px;
+  }
+
+  .padd1{
+    margin-top: 10px ;
+    font-size: 20px;
+  }
+
+  .log {
+    text-decoration: none !important; 
+    color: rgb(222, 95, 41); 
+    cursor: pointer;
+  }
+  
+
+
